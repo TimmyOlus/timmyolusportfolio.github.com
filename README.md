@@ -5,7 +5,7 @@ Skillset: Marketing Automation, Lead management, Sales conversion, CSS and HTMl.
 Welcome!. I am A professional Klaviyo and Marketing Automation expert helping SMEs in Lead management, retention, and revenue growth. I have worked with different e-commerce businesses, both online and offline, to achieve success. I'm confident in my ability to achieve the same with you. Let's work together 
 
 <h2>Certifications</h2> 
-
+ 
 - [Foundations of Digital Marketing and E-commerce Certified](https://www.coursera.org/account/accomplishments/certificate/QMJZXLFZDZKX)  
 - [Salesforce CRM Certified](https://trailblazer.me/id/otimileyin1)
 - [Hubspot Email Marketing Certified](https://app-eu1.hubspot.com/academy/achievements/f7tc7bt9/en/1/olusesan-timileyin/email-marketing)
@@ -13,6 +13,11 @@ Welcome!. I am A professional Klaviyo and Marketing Automation expert helping SM
 - [Search Engine Marketing Certified ](https://www.emarketinginstitute.org/certificate/search-engine-marketing-course-and-certification-free-olusesan-timileyin-d/)
 
 <h2>💻 Klaviyo Automation Projects:</h2>
+
+![Email 1](https://imgur.com/a/6XDTTM0)
+
+![Email 1](/../main/assets/images/email1template2.png)
+
 
 
 <h2> 🤳 Connect with me:</h2>
