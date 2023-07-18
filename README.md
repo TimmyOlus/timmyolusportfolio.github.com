@@ -13,8 +13,14 @@ Welcome!. I am A professional Klaviyo and Marketing Automation expert helping SM
 - [Search Engine Marketing Certified ](https://www.emarketinginstitute.org/certificate/search-engine-marketing-course-and-certification-free-olusesan-timileyin-d/)
 
 <h2>💻 Klaviyo Automation Projects:</h2>
+📌Campaign Email Template
 
-![Email template 2](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template%202.PNG)
+![Email Template 2](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template%202.PNG)
+![Email template3](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template3.PNG)
+![Email template 4](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template%204.PNG)
+
+
+
 
 
 
