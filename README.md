@@ -14,9 +14,7 @@ Welcome!. I am A professional Klaviyo and Marketing Automation expert helping SM
 
 <h2>💻 Klaviyo Automation Projects:</h2>
 
-![Email 1](https://imgur.com/a/6XDTTM0)
-
-![Email 1](/../main/assets/images/email1template2.png)
+![Email template ](/../main/assets/images/Emailtemplate2.png)
 
 
 
