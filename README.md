@@ -13,11 +13,37 @@ Welcome!. I am A professional Klaviyo and Marketing Automation expert helping SM
 - [Search Engine Marketing Certified ](https://www.emarketinginstitute.org/certificate/search-engine-marketing-course-and-certification-free-olusesan-timileyin-d/)
 
 <h2>💻 Klaviyo Automation Projects:</h2>
-📌Campaign Email Template
+📌 Email Template
 
-![Email Template 2](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template%202.PNG)
-![Email template3](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template3.PNG)
-![Email template 4](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template%204.PNG)
+![Email template](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template.PNG)
+
+
+📌Campaign Template
+
+![Camp](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Camp.PNG)
+
+📌SMS Signup
+
+![SMS Signup](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/SMS%20Signup.PNG)
+
+📌Email Signup
+ ![Signup 4](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Sign%20up%204.PNG)
+ ![Signup corrected 1](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Signup%20corrected%201.PNG)
+ 
+📌Flows setup
+![Flow setup](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Flow%20setup.PNG)
+
+![Flows](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Flows.PNG)
+
+📌Klaviyo Integration
+![Klaviyo integration](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Klaviyo%20integration.PNG)
+
+
+📌Thank You Page 
+![Thank u 1](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Thank%20u%201.PNG)
+
+Download more >>
+
 
 
 
