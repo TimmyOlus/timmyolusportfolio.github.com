@@ -14,7 +14,7 @@ Welcome!. I am A professional Klaviyo and Marketing Automation expert helping SM
 
 <h2>💻 Klaviyo Automation Projects:</h2>
 
-![Email template 2](
+![Email template 2](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template%202.PNG)
 
 
 
