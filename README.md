@@ -42,7 +42,7 @@ Welcome!. I am A professional Klaviyo and Marketing Automation expert helping SM
 📌Thank You Page 
 ![Thank u 1](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Thank%20u%201.PNG)
 
-Download more >>
+ 👁[View More](https://drive.google.com/drive/folders/1ndXuUCsnvcOsA_llGE79r9AX7u9KASed?usp=sharing)
 
 
 
