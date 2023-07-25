@@ -73,7 +73,7 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 [<img align="left" alt="timmyolus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/tisheyolus
-[instagram]: https://www.instagram.com/timmyolus/
+[instagram]: https://www.instagram.com/timmyolus
 [linkedin]: https://linkedin.com/in/timileyin-olusesan
 
 
