@@ -49,6 +49,19 @@ Welcome!. I am A professional Klaviyo and Marketing Automation expert helping SM
 
 
 
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/a82e1961-876a-44c0-b367-eed16b6c256d" width="1600" height="500">
+
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
