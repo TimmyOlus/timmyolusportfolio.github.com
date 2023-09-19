@@ -13,10 +13,6 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 - [Search Engine Marketing Certified ](https://www.emarketinginstitute.org/certificate/search-engine-marketing-course-and-certification-free-olusesan-timileyin-d/)
 
 <h2>💻 Klaviyo Automation Projects:</h2>
-📌 Email Template
-
-![Email template](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Email%20template.PNG)
-
 📌 Emprada Newsletter
 ![Emprada Newsleter](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Emprada%20Newsletter.png)
 
