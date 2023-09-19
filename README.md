@@ -14,6 +14,7 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 <h2>💻 Klaviyo Automation Projects:</h2>
 📌 Emprada Newsletter
+
 ![Emprada Newsleter](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Emprada%20Newsletter.png)
 
 
