@@ -1,4 +1,4 @@
-<h1>E-commerce Email marketing & Automation Expert🎖</h1> 
+![Emprada](https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/fa1c5b61-7ab5-445a-9d43-24b75d200aea)<h1>E-commerce Email marketing & Automation Expert🎖</h1> 
 💹I help e-commerce businesses generate 5-6 figures in revenue on a monthly basis leveraging the power of email marketing strategies and automation.
 
 Skill set: Lead management, CSS & HTML, Data Analysis, Marketing Automation, and Sales Conversion.💻
@@ -21,12 +21,22 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 <video src="https://www.loom.com/share/38d303ea277242f189779be42720aecf"controls="controls"style="max-width:730px;"></video>
 
-
+![](https://www.loom.com/share/9910394ccb9b4241be9efa21dc51096e)
 📌Campaign Template
 
-![Camp](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Camp.PNG)
+![Emprada](https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/f5b04be9-5629-4501-a419-1def01e70c8b)
+
+
+
+
+
+
+
+
 
 📌SMS Signup
+
+
 
 
 
