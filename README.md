@@ -1,4 +1,4 @@
-<h1>E-commerce Email marketing & Automation Expert 🎖</h1> 
+<h1>E-commerce Email marketing & Automation Expert🎖</h1> 
 I help e-commerce businesses generate 5-6 figures in revenue on a monthly basis leveraging the power of email marketing strategies and automation.
 
 Skill set: Lead management, CSS & HTML, Data Analysis, Marketing Automation, and Sales Conversion.💻
