@@ -43,6 +43,7 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 ![Email body](https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/23340a2a-83a9-4173-a1d9-c6f3bddf8b91)
 
 
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/23340a2a-83a9-4173-a1d9-c6f3bddf8b91" width="300">
 
 
 ![SMS Signup](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/SMS%20Signup.PNG)
