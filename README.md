@@ -32,7 +32,7 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/f5b04be9-5629-4501-a419-1def01e70c8b" width="300" height="200">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/f5b04be9-5629-4501-a419-1def01e70c8b" width="1200" height="630">
 
 
 
