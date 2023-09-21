@@ -31,11 +31,11 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 📌Campaign Template 2
 
+
 ![Emprada|200x150](https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/f5b04be9-5629-4501-a419-1def01e70c8b)
 
 
-[[https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/f5b04be9-5629-4501-a419-1def01e70c8b)
-|width=100px]]
+
 
 
 
