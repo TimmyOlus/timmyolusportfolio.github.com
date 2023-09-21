@@ -20,7 +20,6 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 ![Emprada Newsleter](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Emprada%20Newsletter.png)
 
 
-![](https://www.loom.com/share/9910394ccb9b4241be9efa21dc51096e)
 
 
 📌Campaign Template
@@ -34,8 +33,7 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 ![Emprada|100x150](https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/f5b04be9-5629-4501-a419-1def01e70c8b)
 
-
-![https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Emprada%20Newsletter.png|width=100px]
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/f5b04be9-5629-4501-a419-1def01e70c8b" width="100" height="100">
 
 
 
