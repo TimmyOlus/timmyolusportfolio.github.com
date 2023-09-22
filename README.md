@@ -61,14 +61,14 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 ---------------------------------------------------------------------------------------------------
 📌I-Fitness Sign Up Form
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/e516b5c9-c6b1-4986-96ee-f139d055760d" width="300" height="5000">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/e516b5c9-c6b1-4986-96ee-f139d055760d" width="500" height="500">
 
 ---------------------------------------------------------------------------------------------------
 
 📌Aphod SMs 
 
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/9b28287a-37e9-4119-8ab9-0db7f10793ec" width="300" height="5000">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/9b28287a-37e9-4119-8ab9-0db7f10793ec" width="500" height="500">
 
 
 ---------------------------------------------------------------------------------------------------
@@ -76,11 +76,11 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 📌Aphod Flow setup
 
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/e3c3a9c9-f22a-451b-bd52-3c69ef3762f8" width="300" height="5000">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/e3c3a9c9-f22a-451b-bd52-3c69ef3762f8" width="500" height="500">
 
 
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/5347ecb3-0578-4106-aad7-d504258625f8" width="300" height="5000">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/5347ecb3-0578-4106-aad7-d504258625f8" width="500" height="500">
 
 ---------------------------------------------------------------------------------------------------
 
