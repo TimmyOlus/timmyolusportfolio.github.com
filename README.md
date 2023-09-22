@@ -43,6 +43,21 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 
 🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
+
+📌GHS Campaign series 
+
+
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/cb24f72c-ff7d-42ba-8897-2059732842f0" width="300" height="5000">
+
+🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
+
+
+📌PetFood Express
+
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/a6f49db9-3db3-467d-a95a-06455a78df1c" width="300" height="5000">
+
+
+🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
 📌SMS Signup
 
 
