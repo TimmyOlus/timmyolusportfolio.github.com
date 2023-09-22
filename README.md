@@ -21,14 +21,12 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 <img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/8d4c641c-a7fd-4412-90de-ef4825ff2780" width="300" height="5000">
 
 
-
-➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿
+🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
 
 📌Emprada Newsletter 2
 
 <img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/f5b04be9-5629-4501-a419-1def01e70c8b" width="300" height="5000">
-
-➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿
+🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
 
 
 📌GHS Welcome Series
@@ -36,8 +34,13 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 <img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/c9260f89-ef7e-4f66-91e3-3fa4686c3699" width="300" height="5000">
 
 
+🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
 
-➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿➿
+
+📌GHS Campaign
+
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/ecd3affe-b50e-4811-bddd-62f00583af90" width="300" height="5000">
+
 
 
 
