@@ -73,14 +73,14 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 ---------------------------------------------------------------------------------------------------
 
-📌Aphod Flow setup
+📌Aphod Flows setup
 
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/e3c3a9c9-f22a-451b-bd52-3c69ef3762f8" width="500" height="500">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/e3c3a9c9-f22a-451b-bd52-3c69ef3762f8" width="300" height="500">
 
 
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/5347ecb3-0578-4106-aad7-d504258625f8" width="500" height="500">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/5347ecb3-0578-4106-aad7-d504258625f8" width="300" height="500">
 
 ---------------------------------------------------------------------------------------------------
 
