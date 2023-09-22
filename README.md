@@ -18,7 +18,7 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 📌 Emprada Newsletter
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/8d4c641c-a7fd-4412-90de-ef4825ff2780" width="300" height="5000">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/8d4c641c-a7fd-4412-90de-ef4825ff2780" width="300" height="6000">
 
 
 🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
