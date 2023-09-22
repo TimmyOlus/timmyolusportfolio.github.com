@@ -90,23 +90,6 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 
 
-![SMS Signup](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/SMS%20Signup.PNG)
-
-📌Email Signup
- ![Signup 4](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Sign%20up%204.PNG)
- ![Signup corrected 1](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Signup%20corrected%201.PNG)
- 
-📌Flows setup
-![Flow setup](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Flow%20setup.PNG)
-
-![Flows](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Flows.PNG)
-
-📌Klaviyo Integration
-![Klaviyo integration](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Klaviyo%20integration.PNG)
-
-
-📌Thank You Page 
-![Thank u 1](https://github.com/TimmyOlus/timmyolusportfolio.github.com/blob/main/Thank%20u%201.PNG)
 
 
 
