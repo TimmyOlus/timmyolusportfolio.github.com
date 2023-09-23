@@ -1,10 +1,10 @@
 <h1>E-commerce Email marketing & Automation Expert🎖</h1> 
 💹I help e-commerce businesses generate 6-7 figures in revenue on a monthly basis leveraging the power of email marketing strategies and automation.
 
-Skill set: Lead management, CSS & HTML, Data Analysis, Marketing Automation, and Sales Conversion.💻
+Skill set: Lead retention & management, CSS & HTML, Data Analysis, Marketing Automation, and Sales Conversion.💻
 
 <h2>About Me</h2>
-Welcome! I am A professional Klaviyo and Marketing Automation expert helping SMEs with Lead management, Customer acquisition & retention, and revenue growth. I have worked with different e-commerce businesses, both online and offline, to achieve success. I'm confident in my ability to achieve the same with you. Let's work together 
+Welcome! I am a professional Klaviyo email marketing and Marketing automation expert helping SMEs with Lead management, Customer acquisition & retention, and revenue growth. I have worked with different e-commerce businesses, both online and offline, to achieve success. I'm confident in my ability to achieve the same with you. Let's work together 
 
 <h2>Certifications</h2> 
  
