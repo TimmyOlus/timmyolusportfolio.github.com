@@ -59,16 +59,18 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 
 ---------------------------------------------------------------------------------------------------
-📌I-Fitness Sign Up Form
-
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/e516b5c9-c6b1-4986-96ee-f139d055760d" width="800" height="500">
-
----------------------------------------------------------------------------------------------------
 
 📌Aphod SMs 
 
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/6ee45671-47d6-498b-8340-6b9ec84060df" width="300" height="1000">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/6ee45671-47d6-498b-8340-6b9ec84060df" width="300" height="500">
+
+
+---------------------------------------------------------------------------------------------------
+📌I-Fitness Sign Up Form
+
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/e516b5c9-c6b1-4986-96ee-f139d055760d" width="800" height="500">
+
 
 
 ---------------------------------------------------------------------------------------------------
