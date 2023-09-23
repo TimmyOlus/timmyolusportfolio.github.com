@@ -63,7 +63,7 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 📌Aphod SMs 
 
 
-<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/6ee45671-47d6-498b-8340-6b9ec84060df" width="300" height="500">
+<img src="https://github.com/TimmyOlus/timmyolusportfolio.github.com/assets/139449264/6ee45671-47d6-498b-8340-6b9ec84060df" width="300" height="700">
 
 
 ---------------------------------------------------------------------------------------------------
@@ -92,11 +92,7 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 
 
 
-
-
-
-
- 👁[View More](https://drive.google.com/drive/folders/1ndXuUCsnvcOsA_llGE79r9AX7u9KASed?usp=sharing)
+👁[View More](https://drive.google.com/drive/folders/1ndXuUCsnvcOsA_llGE79r9AX7u9KASed?usp=sharing)
 
 
 
