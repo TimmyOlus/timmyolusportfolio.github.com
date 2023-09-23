@@ -4,7 +4,7 @@
 Skill set: Lead retention & management, CSS & HTML, Data Analysis, Marketing Automation, and Sales Conversion.💻
 
 <h2>About Me</h2>
-Welcome! I am a professional Klaviyo email marketing and Marketing automation expert helping SMEs with Lead management, Customer acquisition & retention, and revenue growth. I have worked with different e-commerce businesses, both online and offline, to achieve success. I'm confident in my ability to achieve the same with you. Let's work together 
+Welcome! I am a Klaviyo email marketing and Marketing automation expert helping SMEs with Lead management, Customer acquisition & retention, and revenue growth. I have worked with different e-commerce businesses, both online and offline, to achieve success. I'm confident in my ability to achieve the same with you. Let's work together 
 
 <h2>Certifications</h2> 
  
