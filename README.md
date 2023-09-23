@@ -127,5 +127,5 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 [instagram]: https://www.instagram.com/timmyolus
 [linkedin]: https://linkedin.com/in/timileyin-olusesan
 [reddit]: https://www.reddit.com/tisheyolus
-[facebook]: https://web.facebook.com/profile.php?id=61550821277098
+[facebook]: https://web.facebook.com/61550821277098
 
