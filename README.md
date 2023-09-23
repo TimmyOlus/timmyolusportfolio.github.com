@@ -121,11 +121,11 @@ Welcome! I am A professional Klaviyo and Marketing Automation expert helping SME
 [<img align="left" alt="timileyin-olusesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="timmyolus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="tisheyolus | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="61550821277098" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="profile.php?id=61550821277098" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [twitter]: https://twitter.com/tisheyolus
 [instagram]: https://www.instagram.com/timmyolus
 [linkedin]: https://linkedin.com/in/timileyin-olusesan
 [reddit]: https://www.reddit.com/tisheyolus
-[facebook]: https://web.facebook.com/61550821277098
+[facebook]: https://web.facebook.com/profile.php?id=61550821277098
 
